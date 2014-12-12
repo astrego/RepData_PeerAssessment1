@@ -89,7 +89,7 @@ y <- sum(x)
 
 The number of missing values: 2304
 
-I replaced (imputed) the missing values with the average average number of steps taken, averaged across all days.
+I replaced (imputed) the missing values with the mean of number of steps taken per interval, averaged across all days (the average daily activity pattern).
 
 
 ```r
